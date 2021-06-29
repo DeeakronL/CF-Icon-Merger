@@ -6,3 +6,5 @@ The CF-Icon-Merger.py file is a more specific version of the program while the I
 This program relies upon the Pillow (PIL) library for Python.
 
 To use the program, you need 3 files: a basic unit image, a background to use, and a border or some UI element to go in front.
+
+(Original Program created in 2019)
